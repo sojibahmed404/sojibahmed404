@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s](https://dribbble.com/shots/3848914-Programmer-Thomas)"  />
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s"  />
 </div>
 
 ###
