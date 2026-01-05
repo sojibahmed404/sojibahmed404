@@ -1,105 +1,90 @@
+<div align="center">
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s"  />
+</div>
 
-<h1> 👋 Hello, I'm Md Sojib Ahmed </h1>
+###
 
-A Computer Science & Engineering student, aspiring software developer & ethical hacker  
-🏠 &nbsp; Living: Bangladesh
+<h1 align="left">👋 Hello, I'm Md Sojib Ahmed</h1>
 
-<!-- Contact me section starts here -->
+###
 
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
-[<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />][github]
-<br />
-<br />
+<h2 align="left">About me</h2>
 
-<!-- about-me section starts here -->
+###
 
-### 👨‍💻 About Me
+<p align="left">I am a passionate CSE student at Khwaja Yunus Ali University. I love building **software, mobile apps, and websites**. I am currently learning **Flutter, web development, and ethical hacking**. I enjoy solving programming problems and sharing knowledge through projects and tutorials. My goal is to become a full-stack developer and a skilled ethical hacker.</p>
 
-<p align="justify">
-I am a passionate CSE student at Khwaja Yunus Ali University. I love building **software, mobile apps, and websites**. I am currently learning **Flutter, web development, and ethical hacking**. I enjoy solving programming problems and sharing knowledge through projects and tutorials. My goal is to become a full-stack developer and a skilled ethical hacker.
-</p>
+###
 
-<br />
-<!-- about-me section ends here -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/md-sojib-ahmed-a58ab03a2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.facebook.com/mdsojib.ahamed.9615" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mdsojibahmed544@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
-### 🛠️ My Skills
+###
 
-#### Programming & Development:
+<h2 align="left">My Skills</h2>
 
-[<img align="left" alt="C" title="C programming" width="45" hspace="5" src="./images/c.svg" />][cplaylist]
-[<img align="left" alt="C++" title="C++ programming" width="45" hspace="5" src="./images/cplus.svg" />][cplusplaylist]
-[<img align="left" alt="Java" title="Java programming" width="45" hspace="5" src="./images/java.svg" />][javaplaylist]
-[<img align="left" alt="Python" title="Python programming" width="45" hspace="5" src="./images/python.svg" />][pythonplaylist]
-[<img align="left" alt="Flutter" title="Flutter development" width="45" hspace="5" src="./images/flutter.svg" />][flutterplaylist]
-[<img align="left" alt="Web" title="Web development" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
+###
 
-<br />
-<br />
-<br />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
-#### Tools & Frameworks:
+###
 
-- C/C++,Python 
-- Flutter & Dart
-- HTML, CSS, JavaScript, Bootstrap
-- Node.js, Express.js
-- MySQL & MongoDB
-- Git & GitHub
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<br/>
+###
 
-### 💻 Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
-- **Full-stack Flutter App** – Food delivery app with login, bottom navigation & API integration  
-- **C++ Projects** – Advanced string manipulation, calculator, mini-games  
-- **Python Projects** – Automation scripts, small games, and ethical hacking demos  
-- **Web Projects** – Responsive websites using HTML, CSS, JS, Bootstrap
+###
 
+<p align="left">🎓 Education<br><br>B.Sc. in Computer Science & Engineering<br>Khwaja Yunus Ali University, Bangladesh<br><br><br>🌐 Languages<br><br>🇧🇩 Bangla : Native<br>🏴 English : Advanced<br>🇮🇳 Hindi : Intermediate<br><br>🏅 Honors & Achievements<br><br>Building multiple personal projects<br>Learning ethical hacking and CTF challenges<br>Active content creator & tutorial sharer on YouTube<br><br>⚡ Hobbies<br>⚽ Football, 🏸 Badminton, 🏏 Cricket<br>🏊‍♂️ Swimming, 🏃‍♂️ Running, ✈️ Travelling<br>♟️ Chess & coding challenges<br>Popular repo<br><br><br>Thanks for going through my Portfolio. All rights reserved by Md Sojib Ahmed @2026</p>
 
-
-### 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsojibahmed544)](https://github.com/mdsojibahmed404)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsojibahmed404&show_icons=true)
-
-<br/>
-
-### 🎓 Education
-
- B.Sc. in Computer Science & Engineering  
-   Khwaja Yunus Ali University, Bangladesh
-
-
-<br/>
-
-### 🌐 Languages
-
-- 🇧🇩 Bangla : Native  
-- 🏴 English : Advanced  
-- 🇮🇳 Hindi : Intermediate  
-
-<br/>
-
-### 🏅 Honors & Achievements
-
-- Building multiple personal projects  
-- Learning ethical hacking and CTF challenges  
-- Active content creator & tutorial sharer on YouTube  
-
-<br/>
-
-### ⚡ Hobbies
-
-- ⚽ Football, 🏸 Badminton, 🏏 Cricket  
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, ✈️ Travelling  
-- ♟️ Chess & coding challenges  
-
----
-
-[facebook]: https://www.facebook.com/mdsojib.ahamed.9615
-[youtube]: https://www.youtube.com/@TheFlashDose
-[linkedin]: https://www.linkedin.com/in/md-sojib-ahmed-a58ab03a2/
-[github]: https://github.com/mdsojibahmed404
-
+###
