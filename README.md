@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I am a passionate CSE student at Khwaja Yunus Ali University. I love building **software, mobile apps, and websites**. I am currently learning **Flutter, web development, and ethical hacking**. I enjoy solving programming problems and sharing knowledge through projects and tutorials. My goal is to become a full-stack developer and a skilled ethical hacker.</p>
+<p align="left">I am a passionate CSE student at Khwaja Yunus Ali University. I love building **software, mobile apps, and websites**. I enjoy solving programming problems and sharing knowledge through projects and tutorials. My goal is to become a full-stack developer and a software engineers.</p>
 
 ###
 
